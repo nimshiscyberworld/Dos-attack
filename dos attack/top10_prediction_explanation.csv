@@ -1,0 +1,11 @@
+Feature,Feature Value,SHAP Value,Absolute SHAP
+Destination Port,443.0,3.800767,3.800767
+Init_Win_bytes_backward,7720.0,0.68108195,0.68108195
+Bwd Packet Length Std,889.936929,0.44086945,0.44086945
+Total Length of Bwd Packets,45280.0,0.43105227,0.43105227
+Average Packet Size,651.4666667,0.2990678,0.2990678
+Bwd Packets/s,3.400892726,0.2428807,0.2428807
+Init_Win_bytes_forward,29200.0,0.12434776,0.12434776
+Fwd Header Length,1032.0,-0.10247894,0.10247894
+Total Backward Packets,43.0,0.09359065,0.09359065
+Flow IAT Max,10000000.0,0.08353896,0.08353896
